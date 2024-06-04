@@ -1,5 +1,26 @@
-### Hi there 👋
+## Hello and welcome to my profile!
 
+My name is Paulo and I am a Computer Science Student at Universidade Católica de Pernambuco.
+
+# Languages
+- Java
+- Processing
+- Learning C/C++
+
+# Projects
+Participaded in:
+- Unikut: A social network in Java
+- 
+
+##
+
+Working on:
+- Asteroids in Processing
+- A simple Compiler in Java
+
+# Contact
+- E-Mail: paulosergiolobogoes@gmail.com
+- LinkedIn: https://www.linkedin.com/in/paulosergiogoes
 <!--
 **Paulo-Goes/Paulo-Goes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
