@@ -4,18 +4,13 @@ My name is Paulo and I am a Computer Science Student at Universidade Católica d
 
 # Languages
 - Java
+- Python
+- JavaScript
 - Processing
-- Learning C/C++
 
 # Projects
 Participaded in:
 - Unikut: A social network in Java
-
-##
-
-Working on:
-- Asteroids in Processing
-- A simple Compiler in Java
 
 # Contact
 - E-Mail: paulosergiolobogoes@gmail.com
