@@ -11,6 +11,9 @@ My name is Paulo and I am a Computer Science Student at Universidade Católica d
 # Projects
 Participaded in:
 - Unikut: A social network in Java
+  
+Currently Working on:
+- My fullstack portfolio website
 
 # Contact
 - E-Mail: paulosergiolobogoes@gmail.com
